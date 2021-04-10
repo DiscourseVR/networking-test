@@ -1437,8 +1437,8 @@ MonoBehaviour:
   ip: 192.168.2.104
   Server_Only: 0
   Host_VR: 0
-  Host_Spectate: 0
-  Host_Camera: 1
+  Host_Spectate: 1
+  Host_Camera: 0
   Client_Camera: 0
   Client_Web: 0
   Client_VR: 0
@@ -1671,11 +1671,11 @@ MonoBehaviour:
   playerSpawnMethod: 0
   spawnPrefabs:
   - {fileID: 1573536168937357549, guid: 54851b6ce85a2b4419883b6b89660016, type: 3}
-  - {fileID: 3533211282661335010, guid: e659680625ca12349bda03863f1411e7, type: 3}
+  - {fileID: 3170606128616077503, guid: a9cd6389376d41d4a922948f7287da95, type: 3}
   - {fileID: 2358284828920617435, guid: d2d95d000dd7f3145a89c12d6f979a7c, type: 3}
   VRPlayer: {fileID: 1573536168937357549, guid: 54851b6ce85a2b4419883b6b89660016,
     type: 3}
-  spectator: {fileID: 3533211282661335010, guid: e659680625ca12349bda03863f1411e7,
+  spectator: {fileID: 3170606128616077503, guid: a9cd6389376d41d4a922948f7287da95,
     type: 3}
   recorder: {fileID: 2358284828920617435, guid: d2d95d000dd7f3145a89c12d6f979a7c,
     type: 3}
